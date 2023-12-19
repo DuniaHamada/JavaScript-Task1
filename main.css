@@ -1,0 +1,10 @@
+.demo{
+    display: flex;
+    justify-content: center;
+    width:300px;
+    background-color: rgb(221, 206, 236);
+    border: 1px solid red;
+}
+h1{
+    color: teal;
+}
